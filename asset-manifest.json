@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movie-app/static/css/main.e2424b8f.css",
+    "main.js": "/movie-app/static/js/main.59c005ee.js",
+    "index.html": "/movie-app/index.html",
+    "static/media/empty-heart.svg": "/movie-app/static/media/empty-heart.35384cfe509651ff371d9982a7d8669b.svg",
+    "main.e2424b8f.css.map": "/movie-app/static/css/main.e2424b8f.css.map",
+    "main.59c005ee.js.map": "/movie-app/static/js/main.59c005ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2424b8f.css",
+    "static/js/main.59c005ee.js"
+  ]
+}
